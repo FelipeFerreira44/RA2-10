@@ -1,0 +1,15 @@
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Teclado Mec\226nico (ID: 001)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Mouse \211ptico (ID: 002)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Monitor 24\" (ID: 003)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Cadeira Gamer (ID: 004)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Headphone Bluetooth (ID: 005)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Webcam HD (ID: 006)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: SSD 1TB (ID: 007)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Mem\243ria RAM 16GB (ID: 008)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Processador i7 (ID: 009)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:06.24515035 UTC, acao = Add, detalhes = "Adicionado item: Placa de V\237deo RTX (ID: 010)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:33.104256472 UTC, acao = Add, detalhes = "Adicionado item: camisa (ID: 11)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:33:57.595452863 UTC, acao = Add, detalhes = "Adicionado item: shorts (ID: 12)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:34:12.104730988 UTC, acao = Add, detalhes = "Adicionado item: moletom (ID: 13)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:38:20.144947431 UTC, acao = Add, detalhes = "Adicionado item: teclado (ID: 14)", status = Sucesso}
+LogEntry {timestamp = 2025-11-15 01:38:48.721693215 UTC, acao = Remove, detalhes = "Estoque insuficiente", status = Falha "Estoque insuficiente"}
