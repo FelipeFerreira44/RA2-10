@@ -29,13 +29,13 @@ Sistema de gerenciamento de inventário desenvolvido em Haskell que implementa:
 - Interface interativa via terminal
 
 ---
-### 📁 Arquivos de Persistência
+###  Arquivos de Persistência
 - **`Inventario.dat`** - Estado atual do inventário (sobrescrito)
 - **`Auditoria.log`** - Histórico completo de operações (append-only)
 
 ---
 
-## 🏗️ Arquitetura do Sistema
+##  Arquitetura do Sistema
 ```
 projeto/
 ├── InventarioTipos.hs # Definições de tipos e estruturas
